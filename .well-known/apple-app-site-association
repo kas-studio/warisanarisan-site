@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "BD259VM9YH.id.griyacempaka.warisanarisan"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Warisan vs Arisan deep links"
+          }
+        ]
+      }
+    ]
+  }
+}

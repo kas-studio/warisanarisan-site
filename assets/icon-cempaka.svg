@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="teakBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7A4E2D"/>
+      <stop offset="100%" stop-color="#5C3A21"/>
+    </linearGradient>
+    <linearGradient id="brassGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F3D285"/>
+      <stop offset="50%" stop-color="#D4A853"/>
+      <stop offset="100%" stop-color="#9A7228"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#teakBg)" stroke="url(#brassGrad)" stroke-width="10"/>
+  <rect x="24" y="24" width="208" height="208" rx="40" fill="#A9C4B5" stroke="#D4A853" stroke-width="4"/>
+  <rect x="128" y="24" width="104" height="104" rx="8" fill="#98B5A5" opacity="0.65"/>
+  <rect x="24" y="128" width="104" height="104" rx="8" fill="#98B5A5" opacity="0.65"/>
+  <!-- 38-deg Brass Tray & Tumpeng Agung -->
+  <ellipse cx="128" cy="176" rx="76" ry="30" fill="rgba(44,29,20,0.24)"/>
+  <ellipse cx="128" cy="166" rx="74" ry="28" fill="url(#brassGrad)" stroke="#3A2618" stroke-width="5"/>
+  <ellipse cx="128" cy="158" rx="58" ry="20" fill="#4E8C45" stroke="#3A2618" stroke-width="4"/>
+  <polygon points="128,58 84,158 172,158" fill="#F5C42F" stroke="#3A2618" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="128,58 114,84 142,84" fill="#B91C1C" stroke="#3A2618" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Wax Seal Accent -->
+  <circle cx="190" cy="72" r="24" fill="#B91C1C" stroke="#F3D285" stroke-width="4"/>
+  <text x="190" y="79" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#FFF9EE">W</text>
+</svg>
